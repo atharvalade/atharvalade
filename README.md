@@ -6,7 +6,7 @@
 Email: ladeatharva@gmail.com
 Instagram : lade_atharva
 Facebook: Atharva Lade
-LinkedIn: Atharva Lade
+LinkedIn: https://www.linkedin.com/in/atharva-lade-ba8801220
 
 <!---
 atharvalade/atharvalade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

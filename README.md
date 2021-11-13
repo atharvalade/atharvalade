@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atharvalade
 - 👀 I’m interested in Stocks, Coding, Photography, Cycling and Technology!
-- 🌱 I’m currently learning C, C++, SQL, DSA, Java and Python.
+- 🌱 I’m currently learning C, C++, SQL, DSA, Java, CSS, Flask, JavaScript and Python.
 - 💞️ I’m looking to collaborate on interesting codes, available for public use.
 - 📫 How to reach me:
 Email: ladeatharva@gmail.com

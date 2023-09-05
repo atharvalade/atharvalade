@@ -40,6 +40,7 @@ Want to know more about me? [Check out my LinkedIn.](https://www.linkedin.com/in
 </a>
 
 <br>
+<br>
 
 <a href="https://github.com/atharvalade/Currency-Exchange-Calculator">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=atharvalade&repo=Currency-Exchange-Calculator&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
